@@ -15,7 +15,7 @@ En estos momentos estoy siguiendo con mi carrera de programación de software,Ya
 - [X] Base de Datos
 
 ### Proyecto  
-¿Saben que es un cms?, Estoy seguro que estarán preguntándose que es exactamente?, Un cms es un sistema que gestion de contenidos,Que permite la creación y administración de contenidos digitales, principalmente en páginas web... Eso mi queridísimas personas fue mi proyecto, hacer  plantillas de diseño web para modelar a la pagina web de la empresa... muchas de las personas de hoy en día usar un cms ya que no necesita conocimiento de los código de programación.
+¿Saben que es un cms?, Estoy seguro que estarán preguntándose que es exactamente?, Un cms es un sistema que gestion de contenidos,Que permite la creación y administración de contenidos digitales, principalmente en páginas web... Eso mi queridísimas personas fue mi proyecto, hacer  plantillas de diseño web para modelar a la pagina de la empresa... muchas de las personas de hoy en día usar un cms ya que no necesita conocimiento de los código de programación.
       
 ### Acerca sobre mi 
 Acerca sobre mi, que te digo... soy una persona que le encanta disfrutar de los momentos precisos y adecuado para charlar con las personas, Soy una persona disciplina y responsable a pesar que tengo algunas falencia como personas, Estoy intentando mejorarlas ... Soy muy charlatán, me encanta compartir con las personas ideas, cosas y apoyo emocionales... En momentos de trabajo me gusta estar serio y callado, ya que asi aprendo muchisimo mas. En momento de mi entorno propio me gusta ver pelis,memes, aprender cosas diferentes, leer, ejercicios y entre otras cosas, Como objetivo es  priorizar mi mente como lo mas importante que tengo. 
