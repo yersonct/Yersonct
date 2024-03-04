@@ -1,4 +1,7 @@
 ## Bienvenidos a este perfil.. espero que estén muy bien👋
+![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoCH&show_icons=true&count_private=true)](https://github.com/Santiago1481)
 
 Mucho gusto presentarme ante ustedes, mi nombre es Yerson Stiven Cuellar Rubiano.. vivo en la ciudad de Neiva-Huila; donde hace una calor tremenda y reconocido por su comida llanera, vivo feliz por estar aca en este municipio.. tengo 18 años y aspiro hacer un gran ayudante de la sociedad aportando mi conocimiento, mi carisma y ser cada dia mejor que ayer... soy un joven con metas y con propósitos para esta vida hermosa, y pasar cualquier dificultad  que se me atraviese, como objetivo día a día es darle fin a mis tareas.
 
