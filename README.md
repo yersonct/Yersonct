@@ -15,7 +15,7 @@ En estos momentos estoy siguiendo con mi carrera de programación de software,Ya
 - [X] Base de Datos
       
 ### acerca sobre mi 
-Acerca sobre mi, que te digo... soy una persona que le encanta disfrutar de los momentos precisos y adecuado para charlar con las personas, Soy una persona disciplina y responsable a pesar que tengo algunas falencia como personas, Estoy intentando mejorarlas ... Soy muy charlatán, me encanta compartir con las personas ideas, cosas y apoyo emocional...En momentos de trabajo me gusta estar serio y callado, ya que asi aprendo muchisimo mas...
+Acerca sobre mi, que te digo... soy una persona que le encanta disfrutar de los momentos precisos y adecuado para charlar con las personas, Soy una persona disciplina y responsable a pesar que tengo algunas falencia como personas, Estoy intentando mejorarlas ... Soy muy charlatán, me encanta compartir con las personas ideas, cosas y apoyo emocional...En momentos de trabajo me gusta estar serio y callado, ya que asi aprendo muchisimo mas. En momento de mi entorno propio me gusta ver pelis,memes, aprender cosas diferentes, leer, ejercicios y entre otras cosas, Como objetivo es  priorizar mi mente como lo mas importante que tengo. 
 
 
 
