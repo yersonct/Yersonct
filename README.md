@@ -1,7 +1,7 @@
-### Hi there 👋
+### bienvenidos a este perfil.. espero que estén muy bien👋
 
 
-**yersonct/Yersonct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> mucho gusto presentarme ante ustedes, mi nombre es yerson stiven cuellar rubiano.. vivo en la ciudad de neiva-huila; donde hace una calor tremenda y reconocido por su comida llanera, vivo feliz por estar aca en este municipio.. tengo 18 años y aspiro hacer un gran ayuden de la sociedad aportando mi conocimiento,mi carisma y ser cada dia mejor que ayer... soy un joven con metas con propósitos para esta vida hermosa y pasar cualquier dificultad  que se me atraviese, como objetico día a día es darle fin a mis tareas.
 
 Here are some ideas to get you started:
 
