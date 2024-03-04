@@ -11,7 +11,7 @@ Mucho gusto presentarme ante ustedes, mi nombre es Yerson Stiven Cuellar Rubiano
 - [x] HTML
 - [X] CSS
 - [X] JavaScript
-- [ ] Base de Datos (En proceso de aprendizaje)
+- [X] Base de Datos
 
 Here are some ideas to get you started:
 
