@@ -7,7 +7,7 @@
 ### habilidades de programador por e momento 
 
 - [X] Pseudocodigo
-- [ ] diagrama de flujo 
+- [X] diagrama de flujo 
 - [x] HTML
 - [X] CSS
 - [X] JavaScript
